@@ -1,0 +1,11 @@
+nvm install 
+npx serve 
+
+
+https://youtu.be/BWVCP1v-4W4?si=CpuwiSRJKIZ9Ek2u   video 
+
+
+atualizar dependencias 
+    npm i
+verificar se esta com a ultima versão do phaser
+    npm i phaser
